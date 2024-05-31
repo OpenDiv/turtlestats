@@ -1,0 +1,3 @@
+21 host
+24 miner
+43 attendant

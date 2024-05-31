@@ -1,0 +1,5240 @@
+[addTurtle] WAITING FOR RECEIVING
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[testWork] begin - down
+
+[testWork] in process - up
+
+[testWork] sending msg
+
+[msgCollector] begin
+
+[msgCollector] first: LST
+
+[msgCollector] LST 3 -1 60 -1 
+
+[msgCollector] just sent data
+
+[main] STARTING
+
+[addTurtle] WAITING FOR RECEIVING
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #1
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 3
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #2
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 4
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #3
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 5
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #4
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 6
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #5
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #1
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #2
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #3
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #4
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #5
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #1
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #2
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #3
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #4
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #5
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #1
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #2
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #3
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #4
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: LST 3 -1 60 -1 
+
+[msgCollector] just sent data #5
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #1
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #2
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #3
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #4
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #5
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #6
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #7
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #9
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #1
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #2
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #3
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #4
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #5
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #6
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #7
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] just sent data #8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #1 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #2 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] set first as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #3 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #1 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #2 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #3 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #4 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #5 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #6 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #7 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #8 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #1 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #2 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 1
+
+[msgCollector] fir: LST
+
+[msgCollector] data #3 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+NEW CYCLE
+
+NEW CYCLE
+
+NEW CYCLE
+
+[connectingHost] OPENING MODEM 1
+
+[connectingHost] SENDING DATA
+
+[connect] SENDING NEW => 8
+
+[connectingHost] finished
+
+[addTurtle] WAITING FOR RECEIVING
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #1 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #2 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #3 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #4 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #5 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #6 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #7 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #8 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #9 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #10 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #11 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #12 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #13 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #14 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #15 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #16 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #17 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #18 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #19 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #20 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #21 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #22 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #23 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #24 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #25 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #26 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #27 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #28 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #29 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #30 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #31 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #32 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #33 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #34 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #35 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #36 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #37 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #38 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #39 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #40 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #41 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #42 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #43 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #44 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #45 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #46 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #47 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #48 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #49 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #50 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #51 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #52 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #53 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #54 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #55 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #56 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #57 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #58 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #59 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #60 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #61 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #62 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #63 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #64 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #65 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #66 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #67 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #68 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #69 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #70 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #71 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #72 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #73 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #74 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #75 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #76 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #77 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #78 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #79 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #80 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #81 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #82 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #83 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #84 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #85 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #86 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #87 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #88 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #89 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #90 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #91 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #92 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #93 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #94 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #95 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #96 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #97 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #98 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #99 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #100 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #101 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #102 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #103 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #104 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #105 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #106 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #107 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #108 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #109 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #110 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #111 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #112 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #113 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #114 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #115 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #116 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #117 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #118 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #119 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #120 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #121 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #122 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #123 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #124 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #125 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #126 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #127 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #128 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #129 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #130 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #131 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #132 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #133 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #134 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #135 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #136 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #137 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #138 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #139 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #140 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #141 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #142 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #143 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #144 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #145 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #146 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #147 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #148 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #149 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #150 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #151 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #152 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #153 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #154 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #155 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #156 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #157 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #158 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #159 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #160 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #161 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #162 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #163 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #164 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #165 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #166 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #167 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #168 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #169 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #170 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #171 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #172 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #173 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #174 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #175 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #176 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #177 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #178 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #179 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #180 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #181 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #182 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #183 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #184 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #185 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #186 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #187 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #188 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #189 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #190 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #191 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #192 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #193 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #194 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #195 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #196 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #197 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #198 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #199 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #200 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #201 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #202 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #203 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #204 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #205 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #206 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #207 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #208 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #209 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #210 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #211 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #212 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #213 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #214 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #215 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #216 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #217 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #218 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #219 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #220 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #221 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #222 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #223 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #224 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #225 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #226 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #227 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #228 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #229 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #230 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #231 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #232 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #233 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #234 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #235 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #236 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #237 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #238 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #239 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #240 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #241 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #242 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #243 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #244 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #245 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #246 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #247 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #248 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #249 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #250 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #251 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #252 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #253 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #254 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #255 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #256 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #257 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #258 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #259 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
+[testWork] sending msg
+
+[msgCollector] List beginner filled messageList[1] as LST
+
+[msgCollector] begin, size: 2
+
+[msgCollector] fir: LST
+
+[msgCollector] tbl: NUL 3 -1 -1 -1 
+
+[msgCollector] data #260 => 8
+
+[testWork] BEGIN
+
+[holeCycleDown] begin
+
